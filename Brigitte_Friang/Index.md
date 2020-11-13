@@ -28,11 +28,11 @@ I've played this ctf in the Insecurity team and we finished 4th.
 
 * ChatBot - 100 pts
 
-### Misc
+### Misc
 
 * Définition - 50 pts
 
-### Forensic
+### Forensic
 
 * [Sous l'océan - 50 pts](Sous_l'ocean.md)
 * Steganosaurus - 400 pts
