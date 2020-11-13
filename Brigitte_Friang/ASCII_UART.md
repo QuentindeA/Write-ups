@@ -150,5 +150,3 @@ print(message)
 The second option is to use software like PulseView. Then we import the raw analog data, 8-bit signed and using 638 as sample rate. Next, we have to convert the analog signal into a logical signal and insert a uart decoder. We configure the uart decoder with 8 bit data, with 1-bit odd parity and 1 for baud rate.
 ![pulseView](ASCII_UART/pulseView1.png)
 And we remove badly received caracters.
-
-## Opinion
